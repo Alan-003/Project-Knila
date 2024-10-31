@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="9" total="10" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-31T20:20:13 IST" name="Default suite" finished-at="2024-10-31T20:21:29 IST" duration-ms="76345">
+    <groups>
+    </groups>
+    <test started-at="2024-10-31T20:20:13 IST" name="Default test" finished-at="2024-10-31T20:21:29 IST" duration-ms="76345">
+      <class name="Knila_Solution.Project.testRunner">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Knila_Solution.Project.testRunner@5cc5b667]" started-at="2024-10-31T20:20:13 IST" name="setup" finished-at="2024-10-31T20:20:15 IST" duration-ms="1995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_EndVisit()[pri:15, instance:Knila_Solution.Project.testRunner@5cc5b667]" started-at="2024-10-31T20:20:15 IST" name="Verify_EndVisit" finished-at="2024-10-31T20:21:29 IST" duration-ms="74101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_EndVisit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Knila_Solution.Project.testRunner@5cc5b667]" started-at="2024-10-31T20:21:29 IST" name="tearDown" finished-at="2024-10-31T20:21:29 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Knila_Solution.Project.testRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
